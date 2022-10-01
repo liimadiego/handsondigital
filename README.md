@@ -1,4 +1,4 @@
-Para o correto funcionamento da aplicação é necessário rodar os seguintes comandos:<br><br>
+Para o correto funcionamento da aplicação é necessário seguir os seguintes passos:<br><br>
 
 composer install<br>
 Renomear arquivo .env.example para .env<br>
