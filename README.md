@@ -1,8 +1,8 @@
-Para o correto funcionamento da aplicação é necessário rodar os seguintes comandos:
+Para o correto funcionamento da aplicação é necessário rodar os seguintes comandos:<br><br>
 
-composer install
-Renomear arquivo .env.example para .env
-php artisan migrate:fresh --seed
-npm install
-npm run dev
+composer install<br>
+Renomear arquivo .env.example para .env<br>
+php artisan migrate:fresh --seed<br>
+npm install<br>
+npm run dev<br>
 php artisan serve
